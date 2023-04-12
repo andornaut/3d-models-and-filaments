@@ -1,4 +1,4 @@
-# 3D Models
+# 3D Models and Filaments
 
 * [andornaut@github /til/3D Printing](https://github.com/andornaut/til/blob/master/docs/3d-printing.md)
 * [Printables](https://www.printables.com/model)
@@ -33,3 +33,11 @@ Model | Reference
 [Gridfinity Baseplates](./Gridfinity/Gridfinity%20Baseplates) | [Thangs](https://thangs.com/designer/models/3d-model/60925)
 [Gridfinity GameBoy Cartridge Holder](./Gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
 [Gridfinity Plain Bins](./Gridfinity/Gridfinity%20Plain%20Bins) | [Thangs](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698)
+
+## Filament calibration results
+
+* [OrcaSlicer calibration](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Flow-rate)
+
+Filament | Hotbed | Flow rate | Pressure advance
+--- | --- | --- | ---
+[Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | - | - | -
