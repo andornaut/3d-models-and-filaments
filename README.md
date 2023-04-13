@@ -11,7 +11,7 @@ Model | Reference
 --- | ---
 [3DBenchy](./3d-benchy) | [Thingiverse](https://www.thingiverse.com/thing:763622)
 
-### Bambu Labs
+### Bambu Lab
 
 * [Bambu Lab printable upgrades](https://wiki.bambulab.com/en/p1/manual/p1p-upgrades)
 * [Bambu Lab STL models](https://wiki.bambulab.com/en/knowledge-sharing/Links-to-STL-models)
