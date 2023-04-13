@@ -45,4 +45,4 @@ Model | Reference
 
 Filament | Nozzle temp | Plate temp | Flow rate | Pressure advance
 --- | --- | --- | --- | ---
-[Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | 260℃ | - | 0.78 | 0.04
+[Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | 260℃ | 80℃  | 0.78 | 0.04
