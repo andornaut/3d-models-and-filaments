@@ -18,9 +18,9 @@ Model | Reference
 
 Model | Reference
 --- | ---
-[Scraper](./bambu-lab/scraper_grip_by_bambu_lab.stl) |
-[Spool](./bambu-lab/bambulab_spool_by_bambu_lab.stl) | [How to install video](https://www.youtube.com/watch?v=mUSoCr1y9Jk)
 [Light shell](./bambu-lab/light_shell.3mf) | [Assembly instructions](https://wiki.bambulab.com/p1/manual/upgrade-list/led_light.pdf)
+[Scraper](./bambu-lab/scraper_grip_by_bambu_lab.stl) | [How to install video](https://www.youtube.com/watch?v=mUSoCr1y9Jk)
+[Spool](./bambu-lab/bambulab_spool_by_bambu_lab.stl) | [How to install video](https://www.youtube.com/watch?v=mUSoCr1y9Jk)
 
 ### Gridfinity
 
