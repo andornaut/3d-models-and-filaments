@@ -44,5 +44,5 @@ Model | Reference
 * The "pressure advance" calibration prompts for the "extruder type", which is Direct Drive (DDR) on the Bambu Lab P1P
 
 Filament | Nozzle temp | Plate temp | Flow rate | Pressure advance
---- | --- | --- | ---
-[Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | 260℃  | - | 0.78 | 0.04
+--- | --- | --- | --- | ---
+[Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | 260℃ | - | 0.78 | 0.04
