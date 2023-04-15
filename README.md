@@ -10,6 +10,8 @@
 Model | Reference
 --- | ---
 [3DBenchy](./3d-benchy) | [Thingiverse](https://www.thingiverse.com/thing:763622)
+[Catch-All Trays / Desk organizer](./catch-all-trays) | [Printables](https://www.printables.com/model/376225-catch-all-trays-desk-organizer)
+[Modular Drawer Organizer](./modular-drawer-organizer) | [Thingverse](https://www.thingiverse.com/thing:3827538)
 
 ### Bambu Lab
 
@@ -34,7 +36,7 @@ Model | Reference
 [Gridfinity GameBoy Cartridge Holder](./gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
 [Gridfinity Plain Bins](./gridfinity/Gridfinity%20Plain%20Bins) | [Thangs](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698)
 
-## Filament calibration results
+## Filament calibration
 
 * [OrcaSlicer calibration](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Flow-rate)
 * [Filament calibration files](./filament-calibration)
@@ -43,6 +45,9 @@ Model | Reference
 
 * The "pressure advance" calibration prompts for the "extruder type", which is Direct Drive (DDR) on the Bambu Lab P1P
 
+### Settings
+
 Filament | Nozzle temp | Plate temp | Flow rate | Pressure advance
 --- | --- | --- | --- | ---
 [Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | 260℃ | 80℃  | 0.78 | 0.04
+[PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 205℃  | 50℃  | 0.93 | 0.024
