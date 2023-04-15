@@ -11,6 +11,7 @@ Model | Reference
 --- | ---
 [3DBenchy](./3d-benchy) | [Thingiverse](https://www.thingiverse.com/thing:763622)
 [Catch-All Trays / Desk organizer](./catch-all-trays) | [Printables](https://www.printables.com/model/376225-catch-all-trays-desk-organizer)
+[CR2032 coin battery holder](./cr2032_coin_battery_holder) | [Thingverse](https://www.thingiverse.com/thing:1170291)
 [Modular Drawer Organizer](./modular-drawer-organizer) | [Thingverse](https://www.thingiverse.com/thing:3827538)
 
 ### Bambu Lab
