@@ -9,10 +9,11 @@
 
 Model | Reference
 --- | ---
-[3DBenchy](./3d-benchy) | [Thingiverse](https://www.thingiverse.com/thing:763622)
+[3DBenchy](./3dbenchy) | [Thingiverse](https://www.thingiverse.com/thing:763622)
 [Catch-All Trays / Desk organizer](./catch-all-trays) | [Printables](https://www.printables.com/model/376225-catch-all-trays-desk-organizer)
 [Containers](./containers) | -
-[CR2032 coin battery holder](./cr2032_coin_battery_holder) | [Thingverse](https://www.thingiverse.com/thing:1170291)
+[CR2032 coin battery holder](./cr2032-coin-battery-holder) | [Thingverse](https://www.thingiverse.com/thing:1170291)
+[DeWalt DW735 planer to dust collector adapter](./dewalt-dw735-planer-to-dust-collector-adapter) | -
 [Modular Drawer Organizer](./modular-drawer-organizer) | [Thingverse](https://www.thingiverse.com/thing:3827538)
 
 ### Bambu Lab
@@ -52,4 +53,5 @@ Model | Reference
 Filament | Nozzle temp | Plate temp | Flow rate | Pressure advance
 --- | --- | --- | --- | ---
 [Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | 260℃ | 80℃  | 0.78 | 0.04
-[PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 205℃  | 55℃  | 0.93 | 0.024
+[PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 210℃  | 60℃  | 0.93 | 0.024
+[PolyMax PLA beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 225℃  | 60℃  | 0.93 | 0.032
