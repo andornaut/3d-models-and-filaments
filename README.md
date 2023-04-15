@@ -50,4 +50,4 @@ Model | Reference
 Filament | Nozzle temp | Plate temp | Flow rate | Pressure advance
 --- | --- | --- | --- | ---
 [Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | 260℃ | 80℃  | 0.78 | 0.04
-[PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 205℃  | 50℃  | 0.93 | 0.024
+[PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 205℃  | 55℃  | 0.93 | 0.024
