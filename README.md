@@ -39,19 +39,26 @@ Model | Reference
 [Gridfinity GameBoy Cartridge Holder](./gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
 [Gridfinity Plain Bins](./gridfinity/Gridfinity%20Plain%20Bins) | [Thangs](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698)
 
-## Filament calibration
+## Filament
+
+### Calibration
 
 * [OrcaSlicer calibration](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Flow-rate)
 * [Filament calibration files](./filament-calibration)
 
-### Notes
-
-* The "pressure advance" calibration prompts for the "extruder type", which is Direct Drive (DDR) on the Bambu Lab P1P
-
-### Settings
+The "pressure advance" calibration prompts for the "extruder type", which is Direct Drive (DDR) on the Bambu Lab P1P.
 
 Filament | Nozzle temp | Plate temp | Flow rate | Pressure advance
 --- | --- | --- | --- | ---
 [Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | 260℃ | 80℃  | 0.78 | 0.04
 [PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 210℃  | 60℃  | 0.93 | 0.024
 [PolyMax PLA beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 225℃  | 60℃  | 0.93 | 0.032
+
+### Drying
+
+* [SUNLU FilaDryer S2 dry box](https://www.amazon.ca/gp/product/B0B1ZKTS44)
+
+Filament | Temperature | Time
+--- | --- | ---
+PLA | 45℃  | 6 hours 
+PETG | 60℃  | 6 hours 
