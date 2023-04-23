@@ -50,11 +50,11 @@ Model | Reference
 
 The "pressure advance" calibration prompts for the "extruder type", which is Direct Drive (DDR) on the Bambu Lab P1P.
 
-Filament | Nozzle temp | Plate temp | Flow rate | Pressure advance
+Filament | Humidity | Nozzle temp | Plate temp | Flow rate | Pressure advance
 --- | --- | --- | --- | ---
-[Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | 260℃ | 80℃  | 0.78 | 0.04
-[PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 210℃  | 60℃  | 0.93 | 0.024
-[PolyMax PLA beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 225℃  | 60℃  | 0.93 | 0.032
+[Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | - | 260℃ | 80℃  | 0.78 | 0.04
+[PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | - | 210℃  | 55℃  | 0.93 | 0.024
+[PolyMax PLA beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 27% | 230℃  | 55℃  | 0.93 | 0.032
 
 ### Drying
 
