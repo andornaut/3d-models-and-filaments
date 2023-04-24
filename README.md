@@ -36,10 +36,11 @@ Model | Reference
 
 Model | Reference
 --- | ---
-[Gridfinity 3D Printing Bundle for Nerds](./gridfinity/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds) | [Thangs](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741)
-[Gridfinity Baseplates](./gridfinity/Gridfinity%20Baseplates) | [Thangs](https://thangs.com/designer/models/3d-model/60925)
-[Gridfinity GameBoy Cartridge Holder](./gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
-[Gridfinity Plain Bins](./gridfinity/Gridfinity%20Plain%20Bins) | [Thangs](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698)
+[3D printing bundle for nerds](./gridfinity/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds) | [Thangs](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741)
+[Baseplates](./gridfinity/Gridfinity%20Baseplates) | [Thangs](https://thangs.com/designer/models/3d-model/60925)
+[GameBoy cartridge holder](./gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
+||[Thangs: Keyboard tools storage](https://thangs.com/designer/me252613057392/3d-model/Gridfinity%20Keyboard%20storage-851653?manualModelView=true&source=All+Files)
+[Plain bins](./gridfinity/Gridfinity%20Plain%20Bins) | [Thangs](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698)
 
 ## Filament
 
@@ -51,10 +52,10 @@ Model | Reference
 The "pressure advance" calibration prompts for the "extruder type", which is Direct Drive (DDR) on the Bambu Lab P1P.
 
 Filament | Humidity | Nozzle temp | Plate temp | Flow rate | Pressure advance
---- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | ---
 [Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | - | 260℃ | 80℃  | 0.78 | 0.04
-[PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | - | 210℃  | 55℃  | 0.93 | 0.024
-[PolyMax PLA beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 27% | 230℃  | 55℃  | 0.93 | 0.032
+[PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | - | 210℃  | 55℃  | 0.92 | 0.024
+[PolyMax PLA beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 27% | 230℃  | 55℃  | 0.92 | 0.036
 
 ### Drying
 
@@ -62,5 +63,5 @@ Filament | Humidity | Nozzle temp | Plate temp | Flow rate | Pressure advance
 
 Filament | Temperature | Time
 --- | --- | ---
-PLA | 45℃  | 6 hours 
-PETG | 60℃  | 6 hours 
+PLA | 49℃  | 6 hours 
+PETG | 59℃  | 6 hours 
