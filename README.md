@@ -7,17 +7,9 @@
 
 ## Models
 
-Model | Reference
---- | ---
-[3DBenchy](./3dbenchy) | [Thingiverse](https://www.thingiverse.com/thing:763622)
-[Catch-All Trays / Desk organizer](./catch-all-trays) | [Printables](https://www.printables.com/model/376225-catch-all-trays-desk-organizer)
-[Containers](./containers) | -
-[CR2032 coin battery holder](./cr2032-coin-battery-holder) | [Thingverse](https://www.thingiverse.com/thing:1170291)
-[DeWalt DW735 planer to dust collector adapter](./dewalt-dw735-planer-to-dust-collector-adapter) | -
-[ES15 Miniware Case](es15-miniware-case) | [Thingverse](https://www.thingiverse.com/thing:5478046)
-[Modular Drawer Organizer](./modular-drawer-organizer) | [Thingverse](https://www.thingiverse.com/thing:3827538)
-[Sunlu FilaDryer S2 Improvement Wedge](./sunlu-filadryer-s2-improvement-wedge) | [Printables](https://www.printables.com/model/219366-sunlu-filadryer-s2-improvement-wedge)
-[TS101 Soldering Iron Box](./ts101-soldering-iron-box) | [Thingverse](https://www.thingiverse.com/thing:5880987)
+* [Adapters](./adapters)
+* [Containers](./containers)
+
 ### Bambu Lab
 
 * [Bambu Lab printable upgrades](https://wiki.bambulab.com/en/p1/manual/p1p-upgrades)
@@ -41,6 +33,18 @@ Model | Reference
 [GameBoy cartridge holder](./gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
 ||[Thangs: Keyboard tools storage](https://thangs.com/designer/me252613057392/3d-model/Gridfinity%20Keyboard%20storage-851653?manualModelView=true&source=All+Files)
 [Plain bins](./gridfinity/Gridfinity%20Plain%20Bins) | [Thangs](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698)
+
+### Other third-party models
+
+Model | Reference
+--- | ---
+[3DBenchy](./3dbenchy) | [Thingiverse](https://www.thingiverse.com/thing:763622)
+[Catch-All Trays / Desk organizer](./catch-all-trays) | [Printables](https://www.printables.com/model/376225-catch-all-trays-desk-organizer)
+[CR2032 coin battery holder](./cr2032-coin-battery-holder) | [Thingverse](https://www.thingiverse.com/thing:1170291)
+[ES15 Miniware Case](es15-miniware-case) | [Thingverse](https://www.thingiverse.com/thing:5478046)
+[Modular Drawer Organizer](./modular-drawer-organizer) | [Thingverse](https://www.thingiverse.com/thing:3827538)
+[Sunlu FilaDryer S2 Improvement Wedge](./sunlu-filadryer-s2-improvement-wedge) | [Printables](https://www.printables.com/model/219366-sunlu-filadryer-s2-improvement-wedge)
+[TS101 Soldering Iron Box](./ts101-soldering-iron-box) | [Thingverse](https://www.thingiverse.com/thing:5880987)
 
 ## Filament
 
