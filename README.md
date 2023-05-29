@@ -44,6 +44,7 @@ Model | Reference
 [CR2032 coin battery holder](./cr2032-coin-battery-holder) | [Thingverse](https://www.thingiverse.com/thing:1170291)
 [ES15 Miniware Case](es15-miniware-case) | [Thingverse](https://www.thingiverse.com/thing:5478046)
 [Modular Drawer Organizer](./modular-drawer-organizer) | [Thingverse](https://www.thingiverse.com/thing:3827538)
+[Scoops collection](https://www.printables.com/@TripleGWorkshop/collections/573949)
 [Sunlu FilaDryer S2 Improvement Wedge](./sunlu-filadryer-s2-improvement-wedge) | [Printables](https://www.printables.com/model/219366-sunlu-filadryer-s2-improvement-wedge)
 [TS101 Soldering Iron Box](./ts101-soldering-iron-box) | [Thingverse](https://www.thingiverse.com/thing:5880987)
 
