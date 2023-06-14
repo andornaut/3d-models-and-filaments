@@ -9,6 +9,7 @@
 
 * [Adapters](./adapters)
 * [Containers](./containers)
+* [The Daughterboard](./the-daughterboard) - Pegboard tray and accessories
 
 ### Bambu Lab
 
