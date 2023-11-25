@@ -45,6 +45,8 @@ Model | Reference
 [Catch-All Trays / Desk organizer](./catch-all-trays) | [Printables](https://www.printables.com/model/376225-catch-all-trays-desk-organizer)
 [CR2032 coin battery holder](./cr2032-coin-battery-holder) | [Thingverse](https://www.thingiverse.com/thing:1170291)
 [ES15 Miniware Case](./es15-miniware-case) | [Thingverse](https://www.thingiverse.com/thing:5478046)
+Govee RGBIC LED Permanent Outdoor Lighting Mounting Brackets | [Printables](https://www.printables.com/model/593227-govee-rgbic-led-permanent-outdoor-lighting-mountin)
+Govee RGBIC Permanent Outdoor Lights Magnetic/Screw Mount | [Printables](https://www.printables.com/model/441208-govee-rgbic-permanent-outdoor-lights-magneticscrew)
 [Modular Drawer Organizer](./modular-drawer-organizer) | [Thingverse](https://www.thingiverse.com/thing:3827538)
 [NCASE M1 3.5" Dual HDD Bracket](./ncase-m1-dual-hdd-bracket) | [Thingverse](https://www.thingiverse.com/thing:3225646)
 [ratgdo](./ratgdo) | [Printables](https://www.printables.com/model/602600-ratgdo-v2x-pcb-enclosure/files)
