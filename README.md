@@ -7,8 +7,12 @@
 
 ## Models
 
+### First party
+
 * [Adapters](./adapters)
 * [Containers](./containers)
+* [Jewelry box feet](./jewelry-box-feet)
+* [Laptop stand](./laptop-stand)
 * [The Daughterboard](./the-daughterboard) - Pegboard tray and accessories
 
 ### Bambu Lab
