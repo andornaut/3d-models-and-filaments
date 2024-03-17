@@ -76,7 +76,7 @@ Filament | Nozzle size | Humidity | Plate temp | Nozzle temp  | [Flow rate](http
 [Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | 0.4mm | - | 80℃  | 260℃ | 0.78 | 0.04
 [Overture Basic PLA white](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 0.4mm | 25℃ | 60℃ | 225℃ | 0.94 | 0.020
 [PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 0.4mm | - | 60℃ | 210℃ | 0.92 | 0.024
-[PolyLite PLA black](https://ca.polymaker.com/products/polylite-pla?variant=45514358096190) | 0.6mm | 24℃ | 65℃ | 210℃ | 0.95 | 0.0
+[PolyLite PLA black](https://ca.polymaker.com/products/polylite-pla?variant=45514358096190) | 0.6mm | 24℃ | 65℃ | 210℃ | 0.95 | 0.024
 [PolyMax PLA beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 0.4mm | 27℃ | 60℃ | 230℃ | 0.92 | 0.036
 
 ### Drying
