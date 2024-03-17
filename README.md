@@ -66,16 +66,18 @@ KLIPPT - Locking Cable Clip | [Printables](https://www.printables.com/model/4243
 ### Calibration
 
 * [Filament calibration files](./filament-calibration)
-* [OrcaSlicer calibration](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Flow-rate)
+* [OrcaSlicer calibration](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration)
 
 The "pressure advance" calibration prompts for the "extruder type", which is Direct Drive (DDR) on the Bambu Lab P1P.
 
-Filament | Humidity | Nozzle temp | Plate temp | [Flow rate](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Flow-rate) | [Pressure advance](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Pressure-Advance)
---- | --- | --- | --- | --- | ---
-[Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | - | 260℃ | 80℃  | 0.78 | 0.04
-[Overture Basic PLA white](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 25℃ | 225℃ | 60℃ | 0.94 | 0.020
-[PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | - | 210℃  | 60℃  | 0.92 | 0.024
-[PolyMax PLA beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 27℃ | 230℃  | 60℃  | 0.92 | 0.036
+
+Filament | Nozzle size | Humidity | Plate temp | Nozzle temp  | [Flow rate](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Flow-rate) | [Pressure advance](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Pressure-Advance)
+--- | --- | --- | --- | --- | --- | ---
+[Overture Basic PETG space gray](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack?variant=32972936380549) | 0.4mm | - | 80℃  | 260℃ | 0.78 | 0.04
+[Overture Basic PLA white](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 0.4mm | 25℃ | 60℃ | 225℃ | 0.94 | 0.020
+[PolyLite PLA cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 0.4mm | - | 60℃ | 210℃ | 0.92 | 0.024
+[PolyLite PLA black](https://ca.polymaker.com/products/polylite-pla?variant=45514358096190) | 0.6mm | 24℃ | 65℃ | 210℃ | 0.95 | 0.0
+[PolyMax PLA beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 0.4mm | 27℃ | 60℃ | 230℃ | 0.92 | 0.036
 
 ### Drying
 
