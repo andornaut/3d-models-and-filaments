@@ -37,9 +37,10 @@ Model | Reference
 [Baseplates](./gridfinity/Gridfinity%20Baseplates) | [Thangs](https://thangs.com/designer/models/3d-model/60925)
 [Clickfinity baseplates](./gridfinity/Gridfinity%20Clickfinity) | [Printables](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp/files)
 [GameBoy cartridge holder](./gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
-||[Thangs: Keyboard tools storage](https://thangs.com/designer/me252613057392/3d-model/Gridfinity%20Keyboard%20storage-851653?manualModelView=true&source=All+Files)
+|[Keyboard tools storage](https://thangs.com/designer/me252613057392/3d-model/Gridfinity%20Keyboard%20storage-851653?manualModelView=true&source=All+Files)
+|[MiniWare ES15 and iFixit screwdriver + bits - Gridfinity holder](https://www.printables.com/model/234637-miniware-es15-and-ifixit-screwdriver-bits-gridfini)
 [Plain bins](./gridfinity/Gridfinity%20Plain%20Bins) | [Thangs](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698)
-[TS100/1 CNC Kitchen Threaded Insert Gridfinity 3x2](https://makerworld.com/en/models/253564)
+|[TS100/1 CNC Kitchen Threaded Insert Gridfinity 3x2](https://makerworld.com/en/models/253564)
 
 ### Other third-party models
 
