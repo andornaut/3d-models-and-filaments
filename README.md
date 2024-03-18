@@ -39,6 +39,7 @@ Model | Reference
 [GameBoy cartridge holder](./gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
 ||[Thangs: Keyboard tools storage](https://thangs.com/designer/me252613057392/3d-model/Gridfinity%20Keyboard%20storage-851653?manualModelView=true&source=All+Files)
 [Plain bins](./gridfinity/Gridfinity%20Plain%20Bins) | [Thangs](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698)
+[TS100/1 CNC Kitchen Threaded Insert Gridfinity 3x2](https://makerworld.com/en/models/253564)
 
 ### Other third-party models
 
@@ -52,6 +53,7 @@ Model | Reference
 [ES15 Miniware Case](./es15-miniware-case) | [Thingverse](https://www.thingiverse.com/thing:5478046)
 Govee RGBIC LED Permanent Outdoor Lighting Mounting Brackets | [Printables](https://www.printables.com/model/593227-govee-rgbic-led-permanent-outdoor-lighting-mountin)
 Govee RGBIC Permanent Outdoor Lights Magnetic/Screw Mount | [Printables](https://www.printables.com/model/441208-govee-rgbic-permanent-outdoor-lights-magneticscrew)
+Kea Workshop Choc V1 3D Printable Keycaps | [GitHub](https://github.com/klouderone/kwchocv1keycaps)
 KLAMMA - Locking Cable Clip | [Printables](https://www.printables.com/model/359285-klamma-locking-cable-clip)
 KLIPPT - Locking Cable Clip | [Printables](https://www.printables.com/model/424351-klippt-locking-cable-clip)
 [Modular Drawer Organizer](./modular-drawer-organizer) | [Thingverse](https://www.thingiverse.com/thing:3827538)
