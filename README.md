@@ -34,12 +34,16 @@ Model | Reference
 Model | Reference
 --- | ---
 [3D printing bundle for nerds](./gridfinity/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds) | [Thangs](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%203D%20Printing%20Bundle%20for%20Nerds-60741)
+|[Allen Key Gridfinity](https://www.printables.com/model/284696-allen-key-gridfinity)
+|[Apple Watch Charging Stand](https://makerworld.com/en/models/252931#profileId-269297)
 [Baseplates](./gridfinity/Gridfinity%20Baseplates) | [Thangs](https://thangs.com/designer/models/3d-model/60925)
 [Clickfinity baseplates](./gridfinity/Gridfinity%20Clickfinity) | [Printables](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp/files)
 [GameBoy cartridge holder](./gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
 |[Keyboard tools storage](https://thangs.com/designer/me252613057392/3d-model/Gridfinity%20Keyboard%20storage-851653?manualModelView=true&source=All+Files)
+|[Master collection](https://www.printables.com/model/242711/)
 |[MiniWare ES15 and iFixit screwdriver + bits - Gridfinity holder](https://www.printables.com/model/234637-miniware-es15-and-ifixit-screwdriver-bits-gridfini)
 [Plain bins](./gridfinity/Gridfinity%20Plain%20Bins) | [Thangs](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698)
+|[Pliers Rack](https://www.printables.com/model/337990-gridfinity-pliers-rack/) [Other sizes](https://www.printables.com/model/493770-gridfinity-pliers-racks-mega-pack-92-different-siz)
 |[TS100/1 CNC Kitchen Threaded Insert Gridfinity 3x2](https://makerworld.com/en/models/253564)
 
 ### Other third-party models
@@ -69,10 +73,10 @@ KLIPPT - Locking Cable Clip | [Printables](https://www.printables.com/model/4243
 ### Calibration
 
 * [Filament calibration files](./filament-calibration)
+* [How to perfectly tune Orca Slicer for new filaments](https://www.reddit.com/r/BambuLab/comments/1biqy9w/how_to_perfectly_tune_orca_slicer_for_new/)
 * [OrcaSlicer calibration](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration)
 
 The "pressure advance" calibration prompts for the "extruder type", which is Direct Drive (DDR) on the Bambu Lab P1P.
-
 
 Filament | Nozzle size | Humidity | Plate temp | Nozzle temp  | [Flow rate](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Flow-rate) | [Pressure advance](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Pressure-Advance)
 --- | --- | --- | --- | --- | --- | ---
