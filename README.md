@@ -46,6 +46,7 @@ Model | Reference
 [Plain bins](./gridfinity/Gridfinity%20Plain%20Bins) | [Thangs](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698)
 [Pliers Rack](https://www.printables.com/model/337990-gridfinity-pliers-rack/) [Other sizes](https://www.printables.com/model/493770-gridfinity-pliers-racks-mega-pack-92-different-siz)|
 [TS100/1 CNC Kitchen Threaded Insert Gridfinity 3x2](https://makerworld.com/en/models/253564)|
+[USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Usb%2520and%2520SD%2520Card%2520Holder%2520-61209)
 
 ### Other third-party models
 
