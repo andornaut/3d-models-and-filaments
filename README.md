@@ -38,6 +38,7 @@ Model | Reference
 [Allen Key Gridfinity](https://www.printables.com/model/284696-allen-key-gridfinity)|
 [Apple Watch Charging Stand](https://makerworld.com/en/models/252931#profileId-269297)|
 [Baseplates](./gridfinity/Gridfinity%20Baseplates) | [Thangs](https://thangs.com/designer/models/3d-model/60925)
+[Caliper box](./gridfinity/Caliper%20Box.obj) | [Printables](https://www.printables.com/model/299953-gridfinity-caliper-box/files)
 [Clickfinity baseplates](./gridfinity/Gridfinity%20Clickfinity) | [Printables](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp/files)
 [GameBoy cartridge holder](./gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
 [Keyboard tools storage](https://thangs.com/designer/me252613057392/3d-model/Gridfinity%20Keyboard%20storage-851653?manualModelView=true&source=All+Files)|
@@ -85,9 +86,9 @@ Filament | Nozzle size | Humidity | Plate temp | Nozzle temp  | [Flow ratio](htt
 [Bambu PLA Matte Grey](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 0.6mm | 22℃ | 60℃ | 215℃ | 0.98 | 0.018
 [Overture Basic PETG Black](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack) | 0.6mm | 22℃  | 80℃  | 255℃ | 1.00 | 0.04
 [Overture Basic PLA White](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 0.4mm | 25℃ | 60℃ | 225℃ | 0.94 | 0.020
-[PolyLite PLA Black](https://ca.polymaker.com/products/polylite-pla?variant=45514358096190) | 0.6mm | 22℃ | 65℃ | 210℃ | 0.95 | 0.024
-[PolyLite PLA Cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 0.4mm | - | 65℃ | 210℃ | 0.92 | 0.024
-[PolyMax PLA Beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 0.4mm | 27℃ | 65℃ | 230℃ | 0.92 | 0.036
+[PolyLite PLA Black](https://ca.polymaker.com/products/polylite-pla?variant=45514358096190) | 0.6mm | 22℃ | 60℃ | 210℃ | 0.95 | 0.024
+[PolyLite PLA Cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 0.4mm | - | 60℃ | 210℃ | 0.92 | 0.024
+[PolyMax PLA Beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 0.4mm | 27℃ | 60℃ | 230℃ | 0.92 | 0.036
 
 ### Drying
 
