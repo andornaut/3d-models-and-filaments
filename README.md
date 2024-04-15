@@ -42,6 +42,7 @@ Model | Reference
 [Clickfinity baseplates](./gridfinity/Gridfinity%20Clickfinity) | [Printables](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp/files)
 [GameBoy cartridge holder](./gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
 [Keyboard tools storage](https://thangs.com/designer/me252613057392/3d-model/Gridfinity%20Keyboard%20storage-851653?manualModelView=true&source=All+Files)|
+[Lidded bins](https://www.printables.com/@MyStoopidStuff/collections/1314851)|
 [Master collection](https://www.printables.com/model/242711/)|
 [MiniWare ES15 and iFixit screwdriver + bits - Gridfinity holder](https://www.printables.com/model/234637-miniware-es15-and-ifixit-screwdriver-bits-gridfini)|
 [Plain bins](./gridfinity/Gridfinity%20Plain%20Bins) | [Thangs](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698)
@@ -70,6 +71,7 @@ KLIPPT - Locking Cable Clip | [Printables](https://www.printables.com/model/4243
 [Scoops collection](https://www.printables.com/@TripleGWorkshop/collections/573949)
 [Sunlu FilaDryer S2 Improvement Wedge](./sunlu-filadryer-s2-improvement-wedge) | [Printables](https://www.printables.com/model/219366-sunlu-filadryer-s2-improvement-wedge)
 [TS101 Soldering Iron Box](./ts101-soldering-iron-box) | [Thingverse](https://www.thingiverse.com/thing:5880987)
+Zip Tie Anchor | [Printables](https://www.printables.com/model/132296-zip-tie-anchor)
 
 ## Filament
 
