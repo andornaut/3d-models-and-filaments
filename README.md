@@ -1,6 +1,7 @@
 # 3D Models and Filaments
 
 * [andornaut@github /til/3D Printing](https://github.com/andornaut/til/blob/master/docs/3d-printing.md)
+* [MakerWorld](https://makerworld.com)
 * [Printables](https://www.printables.com/model)
 * [Thangs](https://thangs.com)
 * [Thingverse](https://www.thingiverse.com/)
@@ -57,6 +58,7 @@ Model | Reference
 [120mm Fan Grill](./120mm-fan-grill) | [Printables](https://www.printables.com/model/117333-120mm-fan-grill/comments)
 [120mm Fan Spacer](./120mm-fan-spacer) | [Printables](https://www.printables.com/model/314318-na-is1-12-inlet-spacer-for-noctua-120x25mm-fans)
 [3DBenchy](./3dbenchy) | [Thingiverse](https://www.thingiverse.com/thing:763622)
+Camel Hook - Small | [MakerWorld](https://makerworld.com/en/models/14502#profileId-18436)
 [Catch-All Trays / Desk organizer](./catch-all-trays) | [Printables](https://www.printables.com/model/376225-catch-all-trays-desk-organizer)
 [CR2032 coin battery holder](./cr2032-coin-battery-holder) | [Thingverse](https://www.thingiverse.com/thing:1170291)
 [ES15 Miniware Case](./es15-miniware-case) | [Thingverse](https://www.thingiverse.com/thing:5478046)
@@ -70,6 +72,7 @@ KLIPPT - Locking Cable Clip | [Printables](https://www.printables.com/model/4243
 [ratgdo](./ratgdo) | [Printables](https://www.printables.com/model/602600-ratgdo-v2x-pcb-enclosure/files)
 [Scoops collection](https://www.printables.com/@TripleGWorkshop/collections/573949)
 [Sunlu FilaDryer S2 Improvement Wedge](./sunlu-filadryer-s2-improvement-wedge) | [Printables](https://www.printables.com/model/219366-sunlu-filadryer-s2-improvement-wedge)
+The Shifty - Build Plate Guide | [MakerWorld](https://makerworld.com/en/models/83480#profileId-89128)
 [TS101 Soldering Iron Box](./ts101-soldering-iron-box) | [Thingverse](https://www.thingiverse.com/thing:5880987)
 Zip Tie Anchor | [Printables](https://www.printables.com/model/132296-zip-tie-anchor)
 
