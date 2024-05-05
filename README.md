@@ -95,6 +95,7 @@ Filament | Nozzle size | Humidity | Plate temp | Nozzle temp  | [Flow ratio](htt
 [Bambu PLA Matte Grey](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 0.6mm | 22℃ | 60℃ | 215℃ | 0.98 | 0.018
 [Overture Basic PETG Black](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack) | 0.6mm | 22℃  | 80℃  | 255℃ | 1.00 | 0.04
 [Overture Basic PLA White](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 0.4mm | 25℃ | 60℃ | 225℃ | 0.94 | 0.020
+[PolyTerra PLA Cotton White](https://us.polymaker.com/products/polyterra-pla?variant=39574352232505) | 0.6mm | 24℃ | 60℃ | 210℃ | 0.96 | 0.014
 [PolyLite PLA Black](https://ca.polymaker.com/products/polylite-pla?variant=45514358096190) | 0.6mm | 22℃ | 60℃ | 210℃ | 0.95 | 0.024
 [PolyLite PLA Cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 0.4mm | - | 60℃ | 210℃ | 0.92 | 0.024
 [PolyMax PLA Beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 0.4mm | 27℃ | 60℃ | 230℃ | 0.92 | 0.036
