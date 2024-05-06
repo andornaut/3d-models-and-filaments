@@ -65,6 +65,7 @@ Car seat gaps storage box organizer | [MakerWorld](https://makerworld.com/en/mod
 Cable Box MK2 | [MakerWorld](https://makerworld.com/en/models/94550#profileId-101134)
 Desk Cable Management System | [MakerWorld](https://makerworld.com/en/models/164029)
 [ES15 Miniware Case](./es15-miniware-case) | [Thingverse](https://www.thingiverse.com/thing:5478046)
+Flosser Dispenser for Plackers | [MakerWorld](https://makerworld.com/en/models/390289)
 Govee RGBIC LED Permanent Outdoor Lighting Mounting Brackets | [Printables](https://www.printables.com/model/593227-govee-rgbic-led-permanent-outdoor-lighting-mountin)
 Govee RGBIC Permanent Outdoor Lights Magnetic/Screw Mount | [Printables](https://www.printables.com/model/441208-govee-rgbic-permanent-outdoor-lights-magneticscrew)
 Kea Workshop Choc V1 3D Printable Keycaps | [GitHub](https://github.com/klouderone/kwchocv1keycaps)
