@@ -71,6 +71,7 @@ Govee RGBIC Permanent Outdoor Lights Magnetic/Screw Mount | [Printables](https:/
 Kea Workshop Choc V1 3D Printable Keycaps | [GitHub](https://github.com/klouderone/kwchocv1keycaps)
 KLAMMA - Locking Cable Clip | [Printables](https://www.printables.com/model/359285-klamma-locking-cable-clip)
 KLIPPT - Locking Cable Clip | [Printables](https://www.printables.com/model/424351-klippt-locking-cable-clip)
+Lace Locks | [MakerWorld](https://makerworld.com/en/models/451318#profileId-358346)
 Medium Accessory Box for P1 and X1 Series | [MakerWorld](https://makerworld.com/en/models/52449#profileId-54209)
 [Modular Drawer Organizer](./modular-drawer-organizer) | [Thingverse](https://www.thingiverse.com/thing:3827538)
 [NCASE M1 3.5" Dual HDD Bracket](./ncase-m1-dual-hdd-bracket) | [Thingverse](https://www.thingiverse.com/thing:3225646)
@@ -78,6 +79,7 @@ Medium Accessory Box for P1 and X1 Series | [MakerWorld](https://makerworld.com/
 [Scoops collection](https://www.printables.com/@TripleGWorkshop/collections/573949)
 [Sunlu FilaDryer S2 Improvement Wedge](./sunlu-filadryer-s2-improvement-wedge) | [Printables](https://www.printables.com/model/219366-sunlu-filadryer-s2-improvement-wedge)
 The Shifty - Build Plate Guide | [MakerWorld](https://makerworld.com/en/models/83480#profileId-89128)
+Toothbrush Travel Case | [MakerWorld](https://makerworld.com/en/models/32077#profileId-28716)
 [TS101 Soldering Iron Box](./ts101-soldering-iron-box) | [Thingverse](https://www.thingiverse.com/thing:5880987)
 Zip Tie Anchor | [Printables](https://www.printables.com/model/132296-zip-tie-anchor)
 
