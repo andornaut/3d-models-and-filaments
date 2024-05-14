@@ -42,6 +42,7 @@ Model | Reference
 [Caliper box](./gridfinity/Caliper%20Box.obj) | [Printables](https://www.printables.com/model/299953-gridfinity-caliper-box/files)
 [Clickfinity baseplates](./gridfinity/Gridfinity%20Clickfinity) | [Printables](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp/files)
 [GameBoy cartridge holder](./gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
+Gridfinity Rugged Case "Light" 5x4x6U + 9U | [MakerWorld](https://makerworld.com/en/models/463249#profileId-371749)
 [Keyboard tools storage](https://thangs.com/designer/me252613057392/3d-model/Gridfinity%20Keyboard%20storage-851653?manualModelView=true&source=All+Files)|
 [Lidded bins](https://www.printables.com/@MyStoopidStuff/collections/1314851)|
 [Master collection](https://www.printables.com/model/242711/)|
