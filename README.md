@@ -10,7 +10,7 @@
 
 ### First party
 
-* [Adapters](./adapters)
+* [Adapters and brackets](./adapters-and-brackets)
 * [Containers](./containers)
 * [Jewelry box feet](./jewelry-box-feet)
 * [Laptop stand](./laptop-stand)
