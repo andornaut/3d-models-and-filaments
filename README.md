@@ -105,6 +105,7 @@ Filament | Nozzle size | Humidity | Plate temp | Nozzle temp  | [Flow ratio](htt
 [PolyLite PLA Black](https://ca.polymaker.com/products/polylite-pla?variant=45514358096190) | 0.6mm | 22℃ | 60℃ | 210℃ | 0.95 | 0.024
 [PolyLite PLA Cream](https://ca.polymaker.com/products/polylite-pla?variant=44585321005374) | 0.4mm | - | 60℃ | 210℃ | 0.92 | 0.024
 [PolyMax PLA Beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 0.4mm | 27℃ | 60℃ | 230℃ | 0.92 | 0.036
+[PolyMax PLA Beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 0.6mm | 25℃ | 60℃ | 230℃ | 0.92 | 0.036
 
 ### Drying
 
