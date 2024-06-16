@@ -104,7 +104,7 @@ Filament | Humidity | Plate temp | Nozzle temp  | [Flow ratio](https://github.co
 [PolyLite PETG Black](https://ca.polymaker.com/products/polylite-petg?variant=44585314943294) | 20℃ | 80℃ | 255℃ | 0.99 | 0.04
 [PolyLite PLA Black](https://ca.polymaker.com/products/polylite-pla?variant=45514358096190) | 22℃ | 60℃ | 210℃ | 0.95 | 0.024
 [PolyLite PLA Pro Olive Green](https://ca.polymaker.com/products/polylite-pla-pro?variant=45514343121214) | 22℃ | 60℃ | 220℃ | 0.94 | 0.02
-[PolyMax PLA Beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 25℃ | 60℃ | 230℃ | 0.95 | 0.036
+[PolyMax PLA Beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 25℃ | 60℃ | 230℃ | 0.92 | 0.036
 
 ### Drying
 
