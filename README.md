@@ -80,6 +80,7 @@ Noctua NV-AA1-12 Airflow Amplifier | [Printables](https://www.printables.com/mod
 [ratgdo](./ratgdo) | [Printables](https://www.printables.com/model/602600-ratgdo-v2x-pcb-enclosure/files)
 [Scoops collection](https://www.printables.com/@TripleGWorkshop/collections/573949)
 [Sunlu FilaDryer S2 Improvement Wedge](./sunlu-filadryer-s2-improvement-wedge) | [Printables](https://www.printables.com/model/219366-sunlu-filadryer-s2-improvement-wedge)
+The Bin-Erator (Drawer Bin Generator) | [Makerworld](https://makerworld.com/en/models/517716#profileId-433963)
 The Shifty - Build Plate Guide | [MakerWorld](https://makerworld.com/en/models/83480#profileId-89128)
 Toothbrush Travel Case | [MakerWorld](https://makerworld.com/en/models/32077#profileId-28716)
 [TS101 Soldering Iron Box](./ts101-soldering-iron-box) | [Thingverse](https://www.thingiverse.com/thing:5880987)
@@ -91,16 +92,17 @@ Zip Tie Anchor | [Printables](https://www.printables.com/model/132296-zip-tie-an
 
 * [Filament calibration files](./filament-calibration)
 * [How to perfectly tune Orca Slicer for new filaments](https://www.reddit.com/r/BambuLab/comments/1biqy9w/how_to_perfectly_tune_orca_slicer_for_new/)
+* [Improved Flow ratio Calibration v3](https://makerworld.com/en/models/189543)
 * [OrcaSlicer calibration](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration)
 
 The "pressure advance" calibration prompts for the "extruder type", which is Direct Drive (DDR) on the Bambu Lab P1P.
 
 Filament | Nozzle size | Humidity | Plate temp | Nozzle temp  | [Flow ratio](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Flow-rate) | [Pressure advance](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Pressure-Advance)
 --- | --- | --- | --- | --- | --- | ---
-[Bambu PLA Matte Grey](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 0.6mm | 22℃ | 60℃ | 215℃ | 0.98 | 0.018
+[Bambu PLA Matte Grey](https://ca.store.bambulab.com/products/pla-matte) | 0.6mm | 22℃ | 60℃ | 215℃ | 0.98 | 0.018
 [Overture Basic PETG Black](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack) | 0.6mm | 22℃  | 80℃  | 255℃ | 1.00 | 0.04
 [Overture Basic PLA White](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 0.4mm | 25℃ | 60℃ | 225℃ | 0.94 | 0.020
-[PolyTerra PLA Cotton White](https://us.polymaker.com/products/polyterra-pla?variant=39574352232505) | 0.6mm | 24℃ | 60℃ | 210℃ | 0.96 | 0.014
+[PolyTerra PLA Cotton White](https://ca.polymaker.com/products/polyterra-pla?variant=45514281025854) | 0.6mm | 24℃ | 60℃ | 210℃ | 0.96 | 0.014
 [PolyLite PETG Black](https://ca.polymaker.com/products/polylite-petg?variant=44585314943294) | 0.6mm | 20℃ | 80℃ | 255℃ | 0.99 | 0.04
 [PolyLite PLA Black](https://ca.polymaker.com/products/polylite-pla?variant=45514358096190) | 0.6mm | 22℃ | 60℃ | 210℃ | 0.95 | 0.024
 [PolyLite PLA Pro Olive Green](https://ca.polymaker.com/products/polylite-pla-pro?variant=45514343121214) | 0.2mm | 22℃ | 60℃ | 220℃ | 0.95 | 0.034
