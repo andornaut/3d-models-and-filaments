@@ -59,6 +59,7 @@ Model | Reference
 [120mm Fan Grill](./120mm-fan-grill) | [Printables](https://www.printables.com/model/117333-120mm-fan-grill/comments)
 [120mm Fan Spacer](./120mm-fan-spacer) | [Printables](https://www.printables.com/model/314318-na-is1-12-inlet-spacer-for-noctua-120x25mm-fans)
 [3DBenchy](./3dbenchy) | [Thingiverse](https://www.thingiverse.com/thing:763622)
+Battery Storage Box AA , AAA | [MakerWorld](https://makerworld.com/en/models/527881?from=search#profileId-445506)
 Camel Hook - Small | [MakerWorld](https://makerworld.com/en/models/14502#profileId-18436)
 Car seat gaps storage box organizer | [MakerWorld](https://makerworld.com/en/models/420836)
 [Catch-All Trays / Desk organizer](./catch-all-trays) | [Printables](https://www.printables.com/model/376225-catch-all-trays-desk-organizer)
