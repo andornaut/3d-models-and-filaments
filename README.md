@@ -70,6 +70,7 @@ Desk Cable Management System | [MakerWorld](https://makerworld.com/en/models/164
 Flosser Dispenser for Plackers | [MakerWorld](https://makerworld.com/en/models/390289)
 Govee RGBIC LED Permanent Outdoor Lighting Mounting Brackets | [Printables](https://www.printables.com/model/593227-govee-rgbic-led-permanent-outdoor-lighting-mountin)
 Govee RGBIC Permanent Outdoor Lights Magnetic/Screw Mount | [Printables](https://www.printables.com/model/441208-govee-rgbic-permanent-outdoor-lights-magneticscrew)
+High Air Flow Desiccant Holder for Spools | [MakerWorld](https://makerworld.com/en/models/641332#profileId-567300)
 Kea Workshop Choc V1 3D Printable Keycaps | [GitHub](https://github.com/klouderone/kwchocv1keycaps)
 KLAMMA - Locking Cable Clip | [Printables](https://www.printables.com/model/359285-klamma-locking-cable-clip)
 KLIPPT - Locking Cable Clip | [Printables](https://www.printables.com/model/424351-klippt-locking-cable-clip)
@@ -79,12 +80,14 @@ Medium Accessory Box for P1 and X1 Series | [MakerWorld](https://makerworld.com/
 [NCASE M1 3.5" Dual HDD Bracket](./ncase-m1-dual-hdd-bracket) | [Thingverse](https://www.thingiverse.com/thing:3225646)
 Noctua NV-AA1-12 Airflow Amplifier | [Printables](https://www.printables.com/model/887071-nv-aa1-12-airflow-amplifier)
 [ratgdo](./ratgdo) | [Printables](https://www.printables.com/model/602600-ratgdo-v2x-pcb-enclosure/files)
-[Scoops collection](https://www.printables.com/@TripleGWorkshop/collections/573949)
+Scoops collection | [Printables]](https://www.printables.com/@TripleGWorkshop/collections/573949)
+Slanted Universal Filament Clip | [MakerWorld](https://makerworld.com/en/models/589401#profileId-510766)
 [Sunlu FilaDryer S2 Improvement Wedge](./sunlu-filadryer-s2-improvement-wedge) | [Printables](https://www.printables.com/model/219366-sunlu-filadryer-s2-improvement-wedge)
 The Bin-Erator (Drawer Bin Generator) | [Makerworld](https://makerworld.com/en/models/517716#profileId-433963)
 The Shifty - Build Plate Guide | [MakerWorld](https://makerworld.com/en/models/83480#profileId-89128)
 Toothbrush Travel Case | [MakerWorld](https://makerworld.com/en/models/32077#profileId-28716)
 [TS101 Soldering Iron Box](./ts101-soldering-iron-box) | [Thingverse](https://www.thingiverse.com/thing:5880987)
+Z-axis bearing protection | [MakerWorld](https://makerworld.com/en/models/701002#profileId-664278)
 Zip Tie Anchor | [Printables](https://www.printables.com/model/132296-zip-tie-anchor)
 
 ## Filament
