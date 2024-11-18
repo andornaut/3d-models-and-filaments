@@ -94,6 +94,7 @@ Zip Tie Anchor | [Printables](https://www.printables.com/model/132296-zip-tie-an
 
 ### Calibration
 
+* [Top surface patterns 3D model](https://makerworld.com/en/models/110900#profileId-130248)
 * [Filament calibration files](./filament-calibration)
 * [How to perfectly tune Orca Slicer for new filaments](https://www.reddit.com/r/BambuLab/comments/1biqy9w/how_to_perfectly_tune_orca_slicer_for_new/)
 * [Improved Flow ratio Calibration v3](https://makerworld.com/en/models/189543)
