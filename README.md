@@ -43,6 +43,7 @@ Model | Reference
 [Clickfinity baseplates](./gridfinity/Gridfinity%20Clickfinity) | [Printables](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp/files)
 [GameBoy cartridge holder](./gridfinity/Gridfinity%20GameBoy%20Cartridge%20Holder) | [Thangs](https://thangs.com/designer/cogspace/3d-model/Gridfinity%20GameBoy%20Cartridge%20Holder-73725)
 Gridfinity Rugged Case "Light" 5x4x6U + 9U | [MakerWorld](https://makerworld.com/en/models/463249#profileId-371749)
+[High-efficiency Noctua 120mm fan grill](https://www.printables.com/model/1096961-high-efficiency-noctua-120mm-fan-grill)
 [Keyboard tools storage](https://thangs.com/designer/me252613057392/3d-model/Gridfinity%20Keyboard%20storage-851653?manualModelView=true&source=All+Files)|
 [Lidded bins](https://www.printables.com/@MyStoopidStuff/collections/1314851)|
 [Master collection](https://www.printables.com/model/242711/)|
@@ -104,6 +105,7 @@ The "pressure advance" calibration prompts for the "extruder type", which is Dir
 
 Filament | Nozzle size | Humidity | Plate temp | Nozzle temp  | [Flow ratio](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Flow-rate) | [Pressure advance](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Pressure-Advance)
 --- | --- | --- | --- | --- | --- | ---
+[Bambu PLA Basic White](https://ca.store.bambulab.com/products/pla-basic-filament) | 0.4mm | 22℃ | 60℃ | 215℃ | 1.00 | 0.02
 [Bambu PLA Matte Grey](https://ca.store.bambulab.com/products/pla-matte) | 0.6mm | 22℃ | 60℃ | 215℃ | 0.98 | 0.018
 [Overture Basic PETG Black](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack) | 0.6mm | 22℃  | 80℃  | 255℃ | 1.00 | 0.04
 [Overture Basic PLA White](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 0.4mm | 25℃ | 60℃ | 225℃ | 0.94 | 0.020
