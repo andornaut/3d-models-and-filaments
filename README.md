@@ -81,7 +81,7 @@ Medium Accessory Box for P1 and X1 Series | [MakerWorld](https://makerworld.com/
 [NCASE M1 3.5" Dual HDD Bracket](./ncase-m1-dual-hdd-bracket) | [Thingverse](https://www.thingiverse.com/thing:3225646)
 Noctua NV-AA1-12 Airflow Amplifier | [Printables](https://www.printables.com/model/887071-nv-aa1-12-airflow-amplifier)
 [ratgdo](./ratgdo) | [Printables](https://www.printables.com/model/602600-ratgdo-v2x-pcb-enclosure/files)
-Scoops collection | [Printables]](https://www.printables.com/@TripleGWorkshop/collections/573949)
+Scoops collection | [Printables](https://www.printables.com/@TripleGWorkshop/collections/573949)
 Slanted Universal Filament Clip | [MakerWorld](https://makerworld.com/en/models/589401#profileId-510766)
 [Sunlu FilaDryer S2 Improvement Wedge](./sunlu-filadryer-s2-improvement-wedge) | [Printables](https://www.printables.com/model/219366-sunlu-filadryer-s2-improvement-wedge)
 The Bin-Erator (Drawer Bin Generator) | [Makerworld](https://makerworld.com/en/models/517716#profileId-433963)
