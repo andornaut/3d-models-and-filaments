@@ -81,6 +81,7 @@ Medium Accessory Box for P1 and X1 Series | [MakerWorld](https://makerworld.com/
 [Modular Drawer Organizer](./modular-drawer-organizer) | [Thingverse](https://www.thingiverse.com/thing:3827538)
 [NCASE M1 3.5" Dual HDD Bracket](./ncase-m1-dual-hdd-bracket) | [Thingverse](https://www.thingiverse.com/thing:3225646)
 Noctua NV-AA1-12 Airflow Amplifier | [Printables](https://www.printables.com/model/887071-nv-aa1-12-airflow-amplifier)
+Organizer: Modular & Stackable Capsule | [MakerWorld](https://makerworld.com/en/models/710610#profileId-641003)
 [ratgdo](./ratgdo) | [Printables](https://www.printables.com/model/602600-ratgdo-v2x-pcb-enclosure/files)
 Scoops collection | [Printables](https://www.printables.com/@TripleGWorkshop/collections/573949)
 Slanted Universal Filament Clip | [MakerWorld](https://makerworld.com/en/models/589401#profileId-510766)
