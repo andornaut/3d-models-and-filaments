@@ -83,6 +83,7 @@ Medium Accessory Box for P1 and X1 Series | [MakerWorld](https://makerworld.com/
 Noctua NV-AA1-12 Airflow Amplifier | [Printables](https://www.printables.com/model/887071-nv-aa1-12-airflow-amplifier)
 Organizer: Modular & Stackable Capsule | [MakerWorld](https://makerworld.com/en/models/710610#profileId-641003)
 [ratgdo](./ratgdo) | [Printables](https://www.printables.com/model/602600-ratgdo-v2x-pcb-enclosure/files)
+Right-angle cable bender / strain relief, any size | [MakerWorld](https://makerworld.com/en/models/1003805#profileId-981819)
 Scoops collection | [Printables](https://www.printables.com/@TripleGWorkshop/collections/573949)
 Slanted Universal Filament Clip | [MakerWorld](https://makerworld.com/en/models/589401#profileId-510766)
 [Sunlu FilaDryer S2 Improvement Wedge](./sunlu-filadryer-s2-improvement-wedge) | [Printables](https://www.printables.com/model/219366-sunlu-filadryer-s2-improvement-wedge)
