@@ -88,6 +88,7 @@ Scoops collection | [Printables](https://www.printables.com/@TripleGWorkshop/col
 Slanted Universal Filament Clip | [MakerWorld](https://makerworld.com/en/models/589401#profileId-510766)
 [Sunlu FilaDryer S2 Improvement Wedge](./sunlu-filadryer-s2-improvement-wedge) | [Printables](https://www.printables.com/model/219366-sunlu-filadryer-s2-improvement-wedge)
 The Bin-Erator (Drawer Bin Generator) | [Makerworld](https://makerworld.com/en/models/517716#profileId-433963)
+The DUMB Wallet | [Printables](https://www.printables.com/model/1206633-the-dumb-wallet-designed-using-minimal-bullshit)
 The Shifty - Build Plate Guide | [MakerWorld](https://makerworld.com/en/models/83480#profileId-89128)
 Toothbrush Travel Case | [MakerWorld](https://makerworld.com/en/models/32077#profileId-28716)
 [TS101 Soldering Iron Box](./ts101-soldering-iron-box) | [Thingverse](https://www.thingiverse.com/thing:5880987)
