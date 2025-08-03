@@ -32,6 +32,7 @@ Model | Reference
 * [Bin generator](https://gridfinity.bouwens.co/)
 * [Gridfinity](https://gridfinity.xyz/)
 * [GRIPS baseplate generator](https://gridfinity.perplexinglabs.com/pr/grips/0/0) - Interlocking baseplates, and edge-to-edge sizing! 
+* [GRIPS: GRidfinity Interlocking basePlate System](https://makerworld.com/en/models/704997-grips-gridfinity-interlocking-baseplate-system)
 * [/r/gridfinity/](https://old.reddit.com/r/gridfinity/)
 
 Model | Reference
