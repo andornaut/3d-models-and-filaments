@@ -111,18 +111,18 @@ The "pressure advance" calibration prompts for the "extruder type", which is Dir
 
 Filament | Nozzle size | Humidity | Plate temp (PEI) | Nozzle temp  | [Flow ratio](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Flow-rate) | [Pressure advance](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Pressure-Advance)
 --- | --- | --- | --- | --- | --- | ---
-[Bambu PLA Basic White](https://ca.store.bambulab.com/products/pla-basic-filament) | 0.4mm | 22℃ | 60℃ | 215℃ | 1.00 | 0.02
-[Bambu PLA Matte Grey](https://ca.store.bambulab.com/products/pla-matte) | 0.6mm | 22℃ | 60℃ | 215℃ | 0.98 | 0.018
-[Overture Basic PETG Black](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack) | 0.6mm | 22℃  | 80℃  | 255℃ | 1.00 | 0.04
-[Overture Basic PLA White](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 0.4mm | 25℃ | 60℃ | 225℃ | 0.94 | 0.020
-[PolyFlex TPU95 Black](https://ca.polymaker.com/products/polyflex-tpu95?variant=44585309602110) | 0.4mm | 25℃ | 60℃ | 240℃ | - | -
-[PolyLite PETG White](https://ca.polymaker.com/products/polylite-petg?variant=44585314976062) | 0.4mm | 20℃ | 70℃ | 255℃ | 1.02 | 0.56
-[PolyLite PETG Black](https://ca.polymaker.com/products/polylite-petg?variant=44585314943294) | 0.6mm | 20℃ | 70℃ | 255℃ | 0.99 | 0.04
-[PolyLite PLA Black](https://ca.polymaker.com/products/polylite-pla?variant=45514358096190) | 0.6mm | 22℃ | 60℃ | 210℃ | 0.95 | 0.024
-[PolyLite PLA Pro Olive Green](https://ca.polymaker.com/products/polylite-pla-pro?variant=45514343121214) | 0.2mm | 22℃ | 60℃ | 220℃ | 0.95 | 0.034
-[PolyLite PLA Pro Olive Green](https://ca.polymaker.com/products/polylite-pla-pro?variant=45514343121214) | 0.6mm | 22℃ | 60℃ | 220℃ | 0.94 | 0.02
-[PolyMax PLA Beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 0.6mm | 25℃ | 60℃ | 240℃ | 0.92 | 0.036
-[PolyTerra PLA Cotton White](https://ca.polymaker.com/products/polyterra-pla?variant=45514281025854) | 0.6mm | 24℃ | 60℃ | 210℃ | 0.96 | 0.014
+[Bambu PLA Basic White](https://ca.store.bambulab.com/products/pla-basic-filament) | 0.4mm | 22% | 60℃ | 215℃ | 1.00 | 0.02
+[Bambu PLA Matte Grey](https://ca.store.bambulab.com/products/pla-matte) | 0.6mm | 22% | 60℃ | 215℃ | 0.98 | 0.018
+[Overture Basic PETG Black](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack) | 0.6mm | 22%  | 80℃  | 255℃ | 1.00 | 0.04
+[Overture Basic PLA White](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 0.4mm | 25% | 60℃ | 225℃ | 0.94 | 0.020
+[PolyFlex TPU95 Black](https://ca.polymaker.com/products/polyflex-tpu95?variant=44585309602110) | 0.4mm | 25% | 60℃ | 240℃ | - | -
+[PolyLite PETG White](https://ca.polymaker.com/products/polylite-petg?variant=44585314976062) | 0.4mm | 20% | 70℃ | 255℃ | 1.02 | 0.56
+[PolyLite PETG Black](https://ca.polymaker.com/products/polylite-petg?variant=44585314943294) | 0.6mm | 20% | 70℃ | 255℃ | 0.99 | 0.04
+[PolyLite PLA Black](https://ca.polymaker.com/products/polylite-pla?variant=45514358096190) | 0.6mm | 22% | 60℃ | 210℃ | 0.95 | 0.024
+[PolyLite PLA Pro Olive Green](https://ca.polymaker.com/products/polylite-pla-pro?variant=45514343121214) | 0.2mm | 22% | 60℃ | 220℃ | 0.95 | 0.034
+[PolyLite PLA Pro Olive Green](https://ca.polymaker.com/products/polylite-pla-pro?variant=45514343121214) | 0.6mm | 22% | 60℃ | 220℃ | 0.94 | 0.02
+[PolyMax PLA Beige](https://ca.polymaker.com/products/polymax-pla?variant=44585333326142) | 0.6mm | 25% | 60℃ | 240℃ | 0.92 | 0.036
+[PolyTerra PLA Cotton White](https://ca.polymaker.com/products/polyterra-pla?variant=45514281025854) | 0.6mm | 24% | 60℃ | 210℃ | 0.96 | 0.014
 
 
 ### Drying
