@@ -72,6 +72,7 @@ Cable Box MK2 | [MakerWorld](https://makerworld.com/en/models/94550#profileId-10
 Desk Cable Management System | [MakerWorld](https://makerworld.com/en/models/164029)
 [ES15 Miniware Case](./es15-miniware-case) | [Thingverse](https://www.thingiverse.com/thing:5478046)
 Flosser Dispenser for Plackers | [MakerWorld](https://makerworld.com/en/models/390289)
+[FrameCraft](https://framecraft.design/#/enter) | Create custom-size 3D printable photo frames instantly
 Govee RGBIC LED Permanent Outdoor Lighting Mounting Brackets | [Printables](https://www.printables.com/model/593227-govee-rgbic-led-permanent-outdoor-lighting-mountin)
 Govee RGBIC Permanent Outdoor Lights Magnetic/Screw Mount | [Printables](https://www.printables.com/model/441208-govee-rgbic-permanent-outdoor-lights-magneticscrew)
 High Air Flow Desiccant Holder for Spools | [MakerWorld](https://makerworld.com/en/models/641332#profileId-567300)
