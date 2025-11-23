@@ -8,18 +8,15 @@
 
 ## Models
 
-### First party
-
-* [Adapters and brackets](./adapters-and-brackets)
-* [Containers](./containers)
-* [Jewelry box feet](./jewelry-box-feet)
-* [Laptop stand](./laptop-stand)
-* [The Daughterboard](./the-daughterboard) - Pegboard tray and accessories
+* [./Custom models](./custom-models)
+    * [Containers](./custom-models/containers)
+    * [The Daughterboard](./custom-models/the-daughterboard) - Pegboard tray and accessories
 
 ### Bambu Lab
 
-* [Bambu Lab printable upgrades](https://wiki.bambulab.com/en/p1/manual/p1p-upgrades)
-* [Bambu Lab STL models](https://wiki.bambulab.com/en/knowledge-sharing/Links-to-STL-models)
+* [./Bambu Lab](./bambu-lab)
+    * [Bambu Lab printable upgrades](https://wiki.bambulab.com/en/p1/manual/p1p-upgrades)
+    * [Bambu Lab STL models](https://wiki.bambulab.com/en/knowledge-sharing/Links-to-STL-models)
 
 Model | Reference
 --- | ---
@@ -29,6 +26,7 @@ Model | Reference
 
 ### Gridfinity
 
+* [./Gridfinity](./gridfinity)
 * [Bin generator](https://gridfinity.bouwens.co/)
 * [Gridfinity](https://gridfinity.xyz/)
 * [GRIPS baseplate generator](https://gridfinity.perplexinglabs.com/pr/grips/0/0) - Interlocking baseplates, and edge-to-edge sizing! 
