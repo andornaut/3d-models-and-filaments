@@ -115,8 +115,9 @@ Filament | Nozzle size | Humidity | Plate temp (PEI) | Nozzle temp  | [Flow rati
 [Overture Basic PETG Black](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack) | 0.6mm | 22%  | 80℃  | 255℃ | 1.00 | 0.04
 [Overture Basic PLA White](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | 0.4mm | 25% | 60℃ | 225℃ | 0.94 | 0.020
 [PolyFlex TPU95 Black](https://ca.polymaker.com/products/polyflex-tpu95?variant=44585309602110) | 0.4mm | 20% | 60℃ | 240℃ | 0.9 | -
-[PolyLite PETG White](https://ca.polymaker.com/products/polylite-petg?variant=44585314976062) | 0.4mm | 20% | 70℃ | 255℃ | 1.02 | 0.56
-[PolyLite PETG Black](https://ca.polymaker.com/products/polylite-petg?variant=44585314943294) | 0.6mm | 20% | 70℃ | 255℃ | 0.99 | 0.04
+[PolyLite PETG White (new formula)](https://ca.polymaker.com/products/polymaker-petg?variant=60774193955186) | 0.4mm | 20% | 70℃ |  |  | 
+[PolyLite PETG White (old formula)](https://ca.polymaker.com/products/polylite-petg?variant=44585314976062) | 0.4mm | 20% | 70℃ | 255℃ | 1.02 | 0.056
+[PolyLite PETG Black (old formula)](https://ca.polymaker.com/products/polylite-petg?variant=44585314943294) | 0.6mm | 20% | 70℃ | 255℃ | 0.99 | 0.04
 [PolyLite PLA Black](https://ca.polymaker.com/products/polylite-pla?variant=45514358096190) | 0.6mm | 22% | 60℃ | 210℃ | 0.95 | 0.024
 [PolyLite PLA Pro Olive Green](https://ca.polymaker.com/products/polylite-pla-pro?variant=45514343121214) | 0.2mm | 22% | 60℃ | 220℃ | 0.95 | 0.034
 [PolyLite PLA Pro Olive Green](https://ca.polymaker.com/products/polylite-pla-pro?variant=45514343121214) | 0.6mm | 22% | 60℃ | 220℃ | 0.94 | 0.02
