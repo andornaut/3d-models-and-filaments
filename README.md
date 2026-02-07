@@ -31,6 +31,7 @@ Model | Reference
 * [Gridfinity](https://gridfinity.xyz/)
 * [GRIPS baseplate generator](https://gridfinity.perplexinglabs.com/pr/grips/0/0) - Interlocking baseplates, and edge-to-edge sizing! 
 * [GRIPS: GRidfinity Interlocking basePlate System](https://makerworld.com/en/models/704997-grips-gridfinity-interlocking-baseplate-system)
+* [Lockfinity](https://makerworld.com/en/models/2359173-lockfinity-parametric-locking-gridfinity-base#profileId-2580988)
 * [/r/gridfinity/](https://old.reddit.com/r/gridfinity/)
 * [SolidAir - Drawer Organizer Designer](https://www.solidair.co/gridfinity)
 
