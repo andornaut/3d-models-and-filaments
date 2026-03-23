@@ -8,9 +8,9 @@
 
 ## Models
 
-* [./Custom models](./custom-models)
-  * [Containers](./custom-models/containers)
-  * [The Daughterboard](./custom-models/the-daughterboard) - Pegboard tray and accessories
+* [./Models](./models)
+  * [Containers](./models/containers)
+  * [The Daughterboard](./models/the-daughterboard) - Pegboard tray and accessories
 
 ### Bambu Lab
 
