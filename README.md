@@ -78,6 +78,7 @@
 * [Right-angle cable bender / strain relief, any size](https://makerworld.com/en/models/1003805#profileId-981819)
 * [Rotating purse hanger for wardrobe](https://makerworld.com/en/models/1095565-rotating-purse-hanger-for-wardrobe?from=search#profileId-1089894)
 * [Scoops collection](https://www.printables.com/@TripleGWorkshop/collections/573949)
+* [Skateboard Wall Mount](https://makerworld.com/en/models/2506601-skateboard-wall-mount#profileId-2756003)
 * [Slanted Universal Filament Clip](https://makerworld.com/en/models/589401#profileId-510766)
 * [Sunlu FilaDryer S2 Improvement Wedge](https://www.printables.com/model/219366-sunlu-filadryer-s2-improvement-wedge)
 * [TS101 Soldering Iron Box](https://www.thingiverse.com/thing:5880987)
