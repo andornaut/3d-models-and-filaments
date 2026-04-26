@@ -98,6 +98,7 @@
 * [How to perfectly tune Orca Slicer for new filaments](https://www.reddit.com/r/BambuLab/comments/1biqy9w/how_to_perfectly_tune_orca_slicer_for_new/)
 * [Improved Flow ratio Calibration v3](https://makerworld.com/en/models/189543)
 * [OrcaSlicer calibration](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration)
+* [Ellis' print tuning guide](https://ellis3dp.com/Print-Tuning-Guide/)
 * [Top surface patterns 3D model](https://makerworld.com/en/models/110900#profileId-130248)
 
 The "pressure advance" calibration prompts for the "extruder type", which is Direct Drive (DDR) on the Bambu Lab P1P.
