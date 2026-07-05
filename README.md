@@ -49,6 +49,7 @@
 
 ### Other third-party models
 
+* [11mm/10mm/9mm hook lock for Skadis board](https://makerworld.com/en/models/1232953-11mm-10mm-9mm-hook-lock-for-skadis-board)
 * [120mm Fan Grill](https://www.printables.com/model/117333-120mm-fan-grill/comments)
 * [120mm Fan Spacer](https://www.printables.com/model/314318-na-is1-12-inlet-spacer-for-noctua-120x25mm-fans)
 * [3DBenchy](https://www.thingiverse.com/thing:763622)
@@ -66,6 +67,7 @@
 * [Govee RGBIC LED Permanent Outdoor Lighting Mounting Brackets](https://www.printables.com/model/593227-govee-rgbic-led-permanent-outdoor-lighting-mountin)
 * [Govee RGBIC Permanent Outdoor Lights Magnetic/Screw Mount](https://www.printables.com/model/441208-govee-rgbic-permanent-outdoor-lights-magneticscrew)
 * [High Air Flow Desiccant Holder for Spools](https://makerworld.com/en/models/641332#profileId-567300)
+* [Improved Xbox controller holder for Ikea Skadis](https://makerworld.com/en/models/1113054-improved-xbox-controller-holder-for-ikea-skadis)
 * [KLAMMA - Locking Cable Clip](https://www.printables.com/model/359285-klamma-locking-cable-clip)
 * [KLIPPT - Locking Cable Clip](https://www.printables.com/model/424351-klippt-locking-cable-clip)
 * [Kea Workshop Choc V1 3D Printable Keycaps](https://github.com/klouderone/kwchocv1keycaps)
