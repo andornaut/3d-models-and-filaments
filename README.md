@@ -1,6 +1,7 @@
 # 3D Models and Filaments
 
 [![CI](https://github.com/andornaut/3d-models-and-filaments/actions/workflows/ai-attributions.yml/badge.svg)](https://github.com/andornaut/3d-models-and-filaments/actions/workflows/ai-attributions.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 * [andornaut@github /til/3D Printing](https://github.com/andornaut/til/blob/master/docs/3d-printing.md)
 * [MakerWorld](https://makerworld.com)
