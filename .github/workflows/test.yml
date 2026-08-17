@@ -1,0 +1,55 @@
+name: Test
+
+# Every branch, not just main and pull requests: work lands on main directly as
+# often as it arrives through one, so a check that only runs on main is a check
+# that runs after the fact.
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# Keyed on the branch rather than the ref, so a re-push to one branch cancels
+# its own earlier run and not another branch's. Keyed by the event as well: a
+# cancelled run leaves its check runs on the head commit, and GitHub counts
+# those against the required checks, so a push and its pull request cancelling
+# each other would block the merge.
+# Qualified by the repository the branch lives in, since a fork names its
+# branches itself: two pull requests from different forks would otherwise share
+# a group whenever they pick the same branch name.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.event.pull_request.head.repo.full_name || github.repository }}-${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    # Capped well under the six-hour default: nothing here runs longer than
+    # six minutes, so a job still going at fifteen has hung rather than failed.
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7.0.1
+        with:
+          # Nothing in this job uses the token, so it is not left
+          # in .git/config for a later step to read.
+          persist-credentials: false
+
+
+      # The action bundles markdownlint-cli2, so its own tag is the tool pin and
+      # Dependabot proposes the bump through the github-actions ecosystem. It
+      # fetches nothing at run time, so a slow host cannot turn this red.
+      - name: Run markdownlint
+        uses: DavidAnson/markdownlint-cli2-action@v24.2.0
+        with:
+          # Empty on purpose. The action defaults this to `*.{md,markdown}`,
+          # which is the repository root only, and anything passed here outranks
+          # the `globs` in .markdownlint-cli2.yaml. Empty leaves the config file
+          # deciding, so this gate and a local `markdownlint-cli2` read one list.
+          globs: ""
