@@ -30,7 +30,6 @@
 * [Allen Key Gridfinity](https://www.printables.com/model/284696-allen-key-gridfinity)
 * [Apple Watch Charging Stand](https://makerworld.com/en/models/252931#profileId-269297)
 * [Baseplates](https://thangs.com/designer/models/3d-model/60925)
-* [Bin generator](https://gridfinity.bouwens.co/)
 * [Caliper box](https://www.printables.com/model/299953-gridfinity-caliper-box/files)
 * [Clickfinity baseplates](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp/files)
 * [GRIPS baseplate generator](https://gridfinity.perplexinglabs.com/pr/grips/0/0) - Interlocking baseplates, and edge-to-edge sizing!
@@ -46,7 +45,6 @@
 * [MiniWare ES15 and iFixit screwdriver + bits - Gridfinity holder](https://www.printables.com/model/234637-miniware-es15-and-ifixit-screwdriver-bits-gridfini)
 * [Plain bins](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698)
 * [Pliers Rack](https://www.printables.com/model/337990-gridfinity-pliers-rack/) - [Other sizes](https://www.printables.com/model/493770-gridfinity-pliers-racks-mega-pack-92-different-siz)
-* [SolidAir - Drawer Organizer Designer](https://www.solidair.co/gridfinity)
 * [TS100/1 CNC Kitchen Threaded Insert Gridfinity 3x2](https://makerworld.com/en/models/253564)
 * [USB and SD Card Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Usb%2520and%2520SD%2520Card%2520Holder%2520-61209)
 
