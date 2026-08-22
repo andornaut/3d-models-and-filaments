@@ -18,7 +18,7 @@ The Daughterboard is a pegboard tray made of maple that supports 3D printed cont
 
 Category | Quantity | Part
 --- | --- | ---
-Filament | 500g | [PolyLite™ PLA Pro](https://us.polymaker.com/products/polylite-pla-pro)
+Filament | 500g | [PolyLite™ PLA Pro](https://shop.polymaker.com/products/polylite-pla-pro)
 Lumber | 6x1x36" | Maple milled to four 2½x⅝" boards
 Screws | 4+ | [M3 screws](https://www.amazon.ca/gp/product/B01MZ3TWAF/)
 Silicon bumpers | 12+ | [100Pcs Self Adhesive Round Silicone Rubber Bumpers](https://www.aliexpress.com/item/1005003258243932.html)
