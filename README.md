@@ -1,6 +1,6 @@
 # 3D Models and Filaments
 
-[![CI](https://github.com/andornaut/3d-models-and-filaments/actions/workflows/test.yml/badge.svg)](https://github.com/andornaut/3d-models-and-filaments/actions/workflows/test.yml)
+[![Test](https://github.com/andornaut/3d-models-and-filaments/actions/workflows/test.yml/badge.svg)](https://github.com/andornaut/3d-models-and-filaments/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/MIT)
 
 * [andornaut@github /til/3D Printing](https://github.com/andornaut/til/blob/main/docs/3d-printing.md)
