@@ -50,7 +50,7 @@
 
 ### Other third-party models
 
-* [11mm/10mm/9mm hook lock for Skadis board](https://makerworld.com/en/models/1232953-11mm-10mm-9mm-hook-lock-for-skadis-board)
+* [11mm/10mm/9mm hook lock for Ikea Skadis board](https://makerworld.com/en/models/1232953-11mm-10mm-9mm-hook-lock-for-skadis-board) ([alternative](https://makerworld.com/en/models/208743-ikea-skadis-pegboard-lock-pin?from=search#profileId-228704))
 * [120mm Fan Grill](https://www.printables.com/model/117333-120mm-fan-grill/comments)
 * [120mm Fan Spacer](https://www.printables.com/model/314318-na-is1-12-inlet-spacer-for-noctua-120x25mm-fans)
 * [3DBenchy](https://www.thingiverse.com/thing:763622)
