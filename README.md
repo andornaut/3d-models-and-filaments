@@ -113,8 +113,7 @@ Filament | Nozzle size | Humidity | Plate temp ([Textured PEI Plate](https://ca.
 [Overture Basic PETG](https://www.overture3d.ca/collections/petg-filament/products/basic-petg-1-75mm-1-pack) | [0.6mm](https://ca.store.bambulab.com/products/bambu-hotend-p1-series) | 22% | 80℃ | 255℃ | 1.00 | 0.04
 [Overture Basic PLA](https://www.overture3d.ca/collections/pla-filament/products/basic-pla-1-75-mm-1-pack) | [0.4mm](https://ca.store.bambulab.com/products/bambu-hotend-p1-series) | 25% | 60℃ | 225℃ | 0.94 | 0.020
 [PolyFlex TPU95](https://shop.polymaker.com/products/polyflex-tpu95) | [0.4mm](https://ca.store.bambulab.com/products/bambu-hotend-p1-series) | 20% | 60℃ | 240℃ | 0.9 | -
-[PolyLite PETG (new formula)](https://shop.polymaker.com/products/petg?variant=60774193955186) | [0.4mm](https://ca.store.bambulab.com/products/bambu-hotend-p1-series) | 20% | 70℃ | - | - | -
-[PolyLite PETG (old formula)](https://shop.polymaker.com/products/petg?variant=44585314976062) | [0.4mm](https://ca.store.bambulab.com/products/bambu-hotend-p1-series) | 20% | 70℃ | 255℃ | 1.02 | 0.056
+[PolyLite PETG](https://shop.polymaker.com/products/petg) | [0.4mm](https://ca.store.bambulab.com/products/bambu-hotend-p1-series) | 20% | 70℃ | 255℃ | 1.02 | 0.056
 [PolyLite PLA](https://shop.polymaker.com/products/polylite-pla) | [0.6mm](https://ca.store.bambulab.com/products/bambu-hotend-p1-series) | 22% | 60℃ | 210℃ | 0.95 | 0.024
 [PolyLite PLA Pro](https://shop.polymaker.com/products/polylite-pla-pro) | [0.2mm](https://ca.store.bambulab.com/products/bambu-hotend-p1-series) | 22% | 60℃ | 220℃ | 0.95 | 0.034
 [PolyMax PLA](https://shop.polymaker.com/products/polymax-pla) | [0.6mm](https://ca.store.bambulab.com/products/bambu-hotend-p1-series) | 25% | 60℃ | 240℃ | 0.92 | 0.036
