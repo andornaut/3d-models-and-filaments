@@ -1,0 +1,34 @@
+#!/bin/sh
+set -eu
+
+task=${1:-check}
+if [ "$#" -gt 0 ]; then
+  shift
+fi
+
+case "$task" in
+  check)
+    for task in ${CHECK_TASKS:?No checks declared}; do
+      "$0" "$task"
+    done
+    ;;
+  lint)
+    shellcheck -x -P SCRIPTDIR -- tests/container/run tests/container/check
+    markdownlint-cli2
+    ;;
+  test)
+    printf "%s\n" "No test suite declared" >&2
+    exit 2
+    ;;
+  build)
+    printf "%s\n" "No build check declared" >&2
+    exit 2
+    ;;
+  exec)
+    exec sh -ec "${COMMAND:?Set COMMAND for make exec}"
+    ;;
+  *)
+    printf "Unknown check category: %s\n" "$task" >&2
+    exit 2
+    ;;
+esac
