@@ -1,3 +1,4 @@
+# syntax=docker/dockerfile:1.25
 FROM koalaman/shellcheck:v0.11.0 AS shellcheck
 FROM node:24.22.2
 
