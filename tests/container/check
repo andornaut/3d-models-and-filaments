@@ -5,8 +5,6 @@ if [ "$#" -ne 0 ]; then
     exit 2
 fi
 checkout=$(CDPATH='' cd -- "$(dirname -- "$0")/../.." && pwd)
-stock_entrypoint_path=${BASH_SOURCE[0]}
-stock_entrypoint_hash=$(sha256sum "${stock_entrypoint_path}" | cut -d ' ' -f1)
 # shellcheck source=tests/container/stock
 source "${checkout}/tests/container/stock"
 : "${MARKDOWN_IMAGE:?The Makefile declares MARKDOWN_IMAGE}"
