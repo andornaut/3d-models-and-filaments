@@ -79,14 +79,13 @@ jobs:
           stock_image shellcheck_image "${SHELLCHECK_IMAGE}"
           stock_readonly "${shellcheck_image}" /bin/shellcheck -x -P SCRIPTDIR -- \
               tests/container/check tests/container/stock
-          stock_prepare "${markdown_image}" markdown -- sh -ec '
+          STOCK_NETWORK=bridge stock_run "${markdown_image}" -- sh -ec '
               mkdir -p /scratch/markdown
               cp tests/container/package.json tests/container/package-lock.json /scratch/markdown/
-              npm ci --prefix /scratch/markdown --ignore-scripts --no-audit --no-fund --maxsockets=1 >&2
-              tar --create --file - --directory / scratch/markdown
+              npm ci --prefix /scratch/markdown --ignore-scripts --no-audit --no-fund --maxsockets=1
+              /scratch/markdown/node_modules/.bin/markdownlint-cli2
+              bash -n tests/container/check
+              bash -n tests/container/stock
+              sh -n tests/container/check
           '
-          stock_run "${markdown_image}" markdown -- /scratch/markdown/node_modules/.bin/markdownlint-cli2
-          stock_run "${markdown_image}" '' -- bash -n tests/container/check
-          stock_run "${markdown_image}" '' -- bash -n tests/container/stock
-          stock_run "${markdown_image}" '' -- sh -n tests/container/check
           stock_finish
