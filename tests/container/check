@@ -1,34 +1,32 @@
-#!/bin/sh
-set -eu
-
-task=${1:-check}
-if [ "$#" -gt 0 ]; then
-  shift
+#!/usr/bin/env bash
+set -euo pipefail
+if [ "$#" -ne 0 ]; then
+    printf '%s\n' 'Stock checks do not accept arguments.' >&2
+    exit 2
 fi
-
-case "$task" in
-  check)
-    for task in ${CHECK_TASKS:?No checks declared}; do
-      "$0" "$task"
-    done
-    ;;
-  lint)
-    shellcheck -x -P SCRIPTDIR -- tests/container/run tests/container/check
-    markdownlint-cli2
-    ;;
-  test)
-    printf "%s\n" "No test suite declared" >&2
-    exit 2
-    ;;
-  build)
-    printf "%s\n" "No build check declared" >&2
-    exit 2
-    ;;
-  exec)
-    exec sh -ec "${COMMAND:?Set COMMAND for make exec}"
-    ;;
-  *)
-    printf "Unknown check category: %s\n" "$task" >&2
-    exit 2
-    ;;
-esac
+checkout=$(CDPATH='' cd -- "$(dirname -- "$0")/../.." && pwd)
+stock_entrypoint_path=${BASH_SOURCE[0]}
+stock_entrypoint_hash=$(sha256sum "${stock_entrypoint_path}" | cut -d ' ' -f1)
+# shellcheck source=tests/container/stock
+source "${checkout}/tests/container/stock"
+: "${MARKDOWN_IMAGE:?The Makefile declares MARKDOWN_IMAGE}"
+: "${SHELLCHECK_IMAGE:?The Makefile declares SHELLCHECK_IMAGE}"
+stock_begin "${checkout}"
+markdown_image=
+shellcheck_image=
+stock_image markdown_image "${MARKDOWN_IMAGE}"
+stock_image shellcheck_image "${SHELLCHECK_IMAGE}"
+stock_readonly "${shellcheck_image}" /bin/shellcheck -x -P SCRIPTDIR -- \
+    tests/container/run tests/container/check tests/container/stock
+stock_prepare "${markdown_image}" markdown -- sh -ec '
+    mkdir -p /scratch/markdown
+    cp tests/container/package.json tests/container/package-lock.json /scratch/markdown/
+    npm ci --prefix /scratch/markdown --ignore-scripts --no-audit --no-fund --maxsockets=1 >&2
+    tar --create --file - --directory / scratch/markdown
+'
+stock_run "${markdown_image}" markdown -- /scratch/markdown/node_modules/.bin/markdownlint-cli2
+stock_run "${markdown_image}" '' -- bash -n tests/container/run
+stock_run "${markdown_image}" '' -- bash -n tests/container/check
+stock_run "${markdown_image}" '' -- bash -n tests/container/stock
+stock_run "${markdown_image}" '' -- sh -n tests/container/check
+stock_finish

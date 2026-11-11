@@ -29,29 +29,44 @@ jobs:
   lint:
     name: Lint
     runs-on: ubuntu-latest
-    # Capped well under the six-hour default: nothing here runs longer than
-    # six minutes, so a job still going at fifteen has hung rather than failed.
     timeout-minutes: 15
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v7.0.1
         with:
-          # Nothing in this job uses the token, so it is not left
-          # in .git/config for a later step to read.
           persist-credentials: false
-
 
       - name: Set up Docker
         uses: docker/setup-docker-action@v5.7.0
         with:
           version: v29.9.3
 
-      - name: Set up Buildx
-        uses: docker/setup-buildx-action@v4.4.1
-        with:
-          version: v0.38.2
-          driver: docker
-
-      - name: Run checks
-        run: make check
+      - name: Run native stock checks
+        shell: bash
+        run: |
+          set -euo pipefail
+          checkout=${PWD}
+          stock_entrypoint_path=${checkout}/.github/workflows/test.yml
+          stock_entrypoint_hash=$(sha256sum "${stock_entrypoint_path}" | cut -d ' ' -f1)
+          source tests/container/stock
+          MARKDOWN_IMAGE=node:24.22.2
+          SHELLCHECK_IMAGE=koalaman/shellcheck:v0.11.0
+          stock_begin "${checkout}"
+          markdown_image=
+          shellcheck_image=
+          stock_image markdown_image "${MARKDOWN_IMAGE}"
+          stock_image shellcheck_image "${SHELLCHECK_IMAGE}"
+          stock_readonly "${shellcheck_image}" /bin/shellcheck -x -P SCRIPTDIR -- \
+              tests/container/run tests/container/check tests/container/stock
+          stock_prepare "${markdown_image}" markdown -- sh -ec '
+              mkdir -p /scratch/markdown
+              cp tests/container/package.json tests/container/package-lock.json /scratch/markdown/
+              npm ci --prefix /scratch/markdown --ignore-scripts --no-audit --no-fund --maxsockets=1 >&2
+              tar --create --file - --directory / scratch/markdown
+          '
+          stock_run "${markdown_image}" markdown -- /scratch/markdown/node_modules/.bin/markdownlint-cli2
+          stock_run "${markdown_image}" '' -- bash -n tests/container/run
+          stock_run "${markdown_image}" '' -- bash -n tests/container/check
+          stock_run "${markdown_image}" '' -- bash -n tests/container/stock
+          stock_run "${markdown_image}" '' -- sh -n tests/container/check
+          stock_finish
